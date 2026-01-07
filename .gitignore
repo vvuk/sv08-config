@@ -4,3 +4,5 @@ printer-[0-9]*.cfg
 *.bkp
 moonraker-obico.cfg
 *.backup
+*.swp
+tmp
